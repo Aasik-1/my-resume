@@ -1110,7 +1110,7 @@ textarea.form-input {
 
 /*MEDIA QUERIES*/
 
-@media (min-width: 450px) {
+@media (min-width: 300px) {
     .clients-item { min-width: calc(33.33% - 10px); }
 
     .project-img, .blog-banner-box { 
