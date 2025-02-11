@@ -470,7 +470,7 @@ article.active {
     padding: 20px;
     border-radius: 14px;
     box-shadow: var(--shadow2);
-    z-index: 1;
+    z-index: 0;
 }
 
     .service-item::before {
