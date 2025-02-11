@@ -1444,7 +1444,7 @@ body::-webkit-scrollbar-button { height: 60px; }
     article { min-height: 100%; }
 
     main {
-        max-width: 1300px;
+        max-width: 1250px;
         margin-inline: auto;
         display: flex;
         justify-content: center;
