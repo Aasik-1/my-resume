@@ -243,7 +243,7 @@ article.active {
     border-radius: 14px;
     box-shadow: var(--shadow3);
     cursor: pointer;
-    z-index: 1;
+    z-index: 0;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
