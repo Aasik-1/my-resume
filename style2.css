@@ -315,7 +315,7 @@ article.active {
 .info-more-btn {
     position: absolute;
     top: -15px;
-    right: -15px;
+    left: -15px;
     border-radius: 0 15px;
     font-size: 13px;
     color: var(--orange-yellow-crayola);
@@ -1535,7 +1535,8 @@ body::-webkit-scrollbar-button { height: 60px; }
     top: 50%;
     right: 0;
     transform: translateX(-50%);
-     z-index:10;
+    z-index:10;
+     
 }
 
     .a-social-b a {
@@ -1550,6 +1551,7 @@ body::-webkit-scrollbar-button { height: 60px; }
         background-color:var(--light-gray);
         border: 1px solid #cbcbcb;
         box-shadow: 2px 2px 12px rgba(0, 0, 0, .2);
+        z-index:10;
        
     }  
 
