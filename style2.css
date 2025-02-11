@@ -1549,7 +1549,7 @@ body::-webkit-scrollbar-button { height: 60px; }
         background-color:var(--light-gray);
         border: 1px solid #cbcbcb;
         box-shadow: 2px 2px 12px rgba(0, 0, 0, .2);
-        z-index:5;
+        z-index:8;
     }  
 
 
@@ -1646,7 +1646,7 @@ body{
     color: white;
     cursor: pointer;
     border-radius: 5px;
-    z-index:4;
+    z-index:7;
 }
 
 #theme-toggle:hover {
