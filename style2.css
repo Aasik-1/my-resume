@@ -262,7 +262,7 @@ article.active {
     inset: 1px;
     /* background: var(--bg-gradient-jet); */
     border-radius: inherit;
-    z-index: 0;
+    z-index: -1;
 }
 
 
